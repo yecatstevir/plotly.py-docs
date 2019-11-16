@@ -1,0 +1,27 @@
+:mod:`plotly.graph_objects`.Densitymapbox
+==============================================================
+
+
+.. currentmodule:: plotly.graph_objects
+
+.. autoclass:: Densitymapbox
+
+   
+   .. automethod:: __init__
+   
+
+
+:mod:`plotly.graph_objects`.densitymapbox
+==================================================================
+
+.. autosummary::
+   
+   plotly.graph_objects.densitymapbox
+
+.. automodule:: plotly.graph_objects.densitymapbox
+   :members:
+
+
+.. raw:: html
+
+    <div class="clearer"></div>

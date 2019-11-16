@@ -1,0 +1,6 @@
+plotly.graph\_objects.Figure.update\_traces
+===========================================
+
+.. currentmodule:: plotly.graph_objects
+
+.. automethod:: Figure.update_traces
